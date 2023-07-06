@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX/
+
+# Node.js
+node_modules
+
+# Cypress
+cypress/screenshots
+cypress/videos
